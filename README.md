@@ -33,3 +33,5 @@ Tenho 24 anos, sou desenvolvedor frontend e mobile, trabalho atualmente na Wefit
 
 <hr />
 
+![Snake animation](https://github.com/ViniciusPonte/ViniciusPonte/blob/output/github-contribution-grid-snake-dark.svg)
+
