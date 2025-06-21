@@ -13,8 +13,8 @@ Tenho 24 anos, sou desenvolvedor frontend e mobile focado em React e React Nativ
 <div style="display: inline_block">
   <img align="center" alt="Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">&nbsp;
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;
-  <img align="center" alt="Next.js" width="50" src="https://mikevpeeren.nl/_next/static/media/next_logo.79d7b4bd.png" />&nbsp;
-  <img align="center" alt="Tailwind" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" alt="Next.js" width="50" src="https://images.seeklogo.com/logo-png/32/2/next-js-logo-png_seeklogo-321806.png" />&nbsp;
+  <img align="center" alt="Tailwind" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" />
 </div>
   
 <hr />
