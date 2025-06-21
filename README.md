@@ -1,6 +1,6 @@
 ## Oi, eu sou o Vini! 👋
 
-Tenho 24 anos, sou desenvolvedor frontend e mobile focado em React e React Native, trabalho atualmente na Wefit Digital Service Design.
+Tenho 26 anos, sou Tech Lead Frontend com foco em React e Next.js.
 
 <p align='center'>
     <a href="#"> 
